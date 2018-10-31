@@ -1,0 +1,11 @@
+user:
+  id: ${random.uuid}
+  userName: 张三
+  userAge: ${random.int}
+  map:
+    k1: v1
+    k2: v2
+  like: [football,basketball,bpball]
+  car:
+    catName: 小黄
+    color: red
